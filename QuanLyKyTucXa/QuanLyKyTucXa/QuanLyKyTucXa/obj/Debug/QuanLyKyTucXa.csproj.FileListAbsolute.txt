@@ -1,0 +1,16 @@
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe.config
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csprojAssemblyReference.cache
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangNhap.resources
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThongTin.resources
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyKhu.resources
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmThongKe.resources
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMainForm.resources
+D:\GIT\QuanLyKyTucXa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmChuyenPhong.resources
